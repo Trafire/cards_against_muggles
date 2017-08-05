@@ -1,5 +1,15 @@
 {
+    "name": "vendor/cards-against-muggles",
+    "description": "Description of project cards_against_muggles.",
+    "authors": [
+        {
+            "name": "Antoine",
+            "email": "antoinewood@gmail.com"
+        }
+    ],
     "require": {
-        "cboden/ratchet": "^0.3.6"
+        "cboden/ratchet": "dev-master"
+    },
+    "require-dev": {
     }
 }
